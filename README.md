@@ -1,5 +1,5 @@
 # Introduction
-Welcome to the unofficial Ecampus handbook for engineering students at Oregon State University, written by current student Vincent Wong.
+Welcome to the unofficial Ecampus handbook for engineering students at Oregon State University, written by current student and Engineering Student Council Ecampus Senator Vincent Wong.
 
 To read the latest version, please download the PDF file above.
 
